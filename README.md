@@ -1,5 +1,4 @@
-## Hi there my name is Craig 
-
+<h1>Hi, I'm Craig, an <a href="https://www.linkedin.com/in/craigwalls-cybersec/">IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
