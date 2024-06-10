@@ -8,7 +8,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/craigwallsse/configure-ad)
   - [Deploying Active Directory and Creating Users](https://github.com/craigwallsse/azure-network-protocols)
-
+- <b>Performing Activities on the Network</b>
+  - [Using Wireshark and CLI Tools](https://github.com/craigwallsse/network-activites-cli-wireshark)
+    
 <h2>🤳Connect with me:</h2>
 
 
