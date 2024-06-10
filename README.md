@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: www.linkedin.com/in/craigwalls-cybersec
+[linkedin]: www.linkedin.com/in/craigwalls-it
 
 
