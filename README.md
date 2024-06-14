@@ -10,7 +10,10 @@
   - [Deploying Active Directory and Creating Users](https://github.com/craigwallsse/azure-network-protocols)
 - <b>Performing Activities on the Network</b>
   - [Using Wireshark and CLI Tools](https://github.com/craigwallsse/network-activites-cli-wireshark)
-    
+  - [DNS Record Managment](https://github.com/craigwallsse/dns-record-managment)
+  
+
+
 <h2>🤳Connect with me:</h2>
 
 
